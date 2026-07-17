@@ -106,7 +106,7 @@ pip install -r requirements.txt
 # ▶️ Running the Tool
 
 ```bash
-python3 main.py
+python3 main.py --username targetusername
 ```
 
 ---
